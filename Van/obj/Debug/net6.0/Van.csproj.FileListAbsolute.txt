@@ -1,0 +1,15 @@
+C:\Users\Евгений\Desktop\proekt 2\Van\Van\obj\Debug\net6.0\Van.csproj.AssemblyReference.cache
+C:\Users\Евгений\Desktop\proekt 2\Van\Van\obj\Debug\net6.0\Van.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\Desktop\proekt 2\Van\Van\obj\Debug\net6.0\Van.AssemblyInfoInputs.cache
+C:\Users\Евгений\Desktop\proekt 2\Van\Van\obj\Debug\net6.0\Van.AssemblyInfo.cs
+C:\Users\Евгений\Desktop\proekt 2\Van\Van\obj\Debug\net6.0\Van.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Desktop\proekt 2\Van\Van\bin\Debug\net6.0\Van.exe
+C:\Users\Евгений\Desktop\proekt 2\Van\Van\bin\Debug\net6.0\Van.deps.json
+C:\Users\Евгений\Desktop\proekt 2\Van\Van\bin\Debug\net6.0\Van.runtimeconfig.json
+C:\Users\Евгений\Desktop\proekt 2\Van\Van\bin\Debug\net6.0\Van.dll
+C:\Users\Евгений\Desktop\proekt 2\Van\Van\bin\Debug\net6.0\Van.pdb
+C:\Users\Евгений\Desktop\proekt 2\Van\Van\obj\Debug\net6.0\Van.dll
+C:\Users\Евгений\Desktop\proekt 2\Van\Van\obj\Debug\net6.0\refint\Van.dll
+C:\Users\Евгений\Desktop\proekt 2\Van\Van\obj\Debug\net6.0\Van.pdb
+C:\Users\Евгений\Desktop\proekt 2\Van\Van\obj\Debug\net6.0\Van.genruntimeconfig.cache
+C:\Users\Евгений\Desktop\proekt 2\Van\Van\obj\Debug\net6.0\ref\Van.dll
